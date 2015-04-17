@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: stdlib-package">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/alg/libs/stdlib-package.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
