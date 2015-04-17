@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+}
+
+//mainClassName = 'com.example.MyClass'
+
+mainClassName = 'com.example.bf.BeeFarming'
+
+
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
