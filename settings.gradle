@@ -1,1 +1,2 @@
-include ':alg'
+include ':mouse', ':alg'
+

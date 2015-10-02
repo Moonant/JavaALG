@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaALG.iml" filepath="$PROJECT_DIR$/JavaALG.iml" />
       <module fileurl="file://$PROJECT_DIR$/alg/alg.iml" filepath="$PROJECT_DIR$/alg/alg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mouse/mouse.iml" filepath="$PROJECT_DIR$/mouse/mouse.iml" />
     </modules>
   </component>
 </project>

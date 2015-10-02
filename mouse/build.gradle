@@ -1,0 +1,13 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+dependencies {
+    compile 'com.squareup.okhttp:okhttp:2.4.0'
+}
+
+mainClassName = 'com.example.harry.MyClass'
+
+
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
